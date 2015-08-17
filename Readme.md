@@ -25,3 +25,11 @@ By using the framework and/or code inside the framework, you agree to the terms 
 The terms are subjected to be changed over time.
 
 Disclaimer: The vast majority of the code / framework has been written by me. Any additional code / content used is fully credited and owned by it’s author as well as linked to the authors content (Forums,Media,etc). The additional content used within the framework either has the expressed permission of the content creators permission or was automatically used under the GPU (General Purpose License) from public posting with no usage / TOA / Disclaimer, however they still own the rights to their content. If in any case that content is being used within this mission / framework that the content creator doesn’t wish for it to be used due to my strict TOA / Agreement all you need to do is ask for it to be removed and it will be honored.
+
+#My Modifications - waski35
+
+Mission modified to some extent by Me, based on Altis Life RPG 3.4.8 by Tonic. It also contains code from "Economy System" and police textures taken from Altis Life RPG Official Forums, placed in its respective threads from their original Authors, in January 2015. As far as I remember Authors of this pieces of code allowed to use their code with Altis Life RPG, and for its modification process.
+After over half of year, I don't remember names / nicknames of these authors, but to document their work, I'll post here information about their contribution, later today. I believe they agreed to put their code to this mission.
+
+It also contains tweaked prices based on input from small community of players of our server, some vehicles added, some changes to cop shop, and medic shop, to better distinguish ranks, also there is some logic I put to reserve slots and bind them to ranks in Arma III group system for police and medics.
+I have added additional shops on map, and tweaked spawn points to suit my server's community needs. So there's to some extent also my Work included.
